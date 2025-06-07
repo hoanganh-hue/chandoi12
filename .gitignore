@@ -1,0 +1,23 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+env/
+venv/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
